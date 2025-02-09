@@ -1,3 +1,4 @@
+#  Gussing number 1 t0 100 
 import random
 
 a = random.randint(1,100)
