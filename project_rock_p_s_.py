@@ -1,3 +1,5 @@
+# Rock paper sicessor game 
+
 '''Rock = R    = 0 
    Paper = P   = 1 
    Scissor = S = 2'''
