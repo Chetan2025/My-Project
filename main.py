@@ -17,7 +17,7 @@ class Fuel:
             print("|-----------------------------------------------------------|")
             print("|                The Quantity is Not Available              |")
             print("|-----------------------------------------------------------|")
-            return 
+            return #
 
         self.petrol-= quintity
         total = quintity * self.amount[0]
